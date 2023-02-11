@@ -1,0 +1,41 @@
+.content .main-content{
+    float: right;
+}
+
+.content .main-content .section{
+    float: left;
+}
+
+.content .main-content .section{
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.content .main-content .section .section-title{
+    margin: 10px 0px 10px 0px;
+}
+
+.content .main-content .section.search{
+    margin-top: 80px;
+}
+
+.content .main-content .section.topics ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    border-top: 1px solid #e0e0e0;
+}
+
+.content .main-content .section.topics ul li a{
+    display: block;
+    padding: 15px 0px 15px 0px;
+    border-bottom: 1px solid #e0e0e0;
+    transition: all 0.3s;
+}
+
+.content .main-content .section.topics ul li a:hover{
+    padding-left: 10px;
+    transition: all 0.3s;
+}
