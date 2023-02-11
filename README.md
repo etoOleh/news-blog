@@ -4,6 +4,7 @@
 
 This is my news blog project on php,js,css and html for Progressive Media.
 
+![alt text](assets/images/scr.png)
 
 Menu
 1) News (multilevel).
